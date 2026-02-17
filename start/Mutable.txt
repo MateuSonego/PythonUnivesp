@@ -1,0 +1,14 @@
+| Categoria  | Tipo      | Mutável?  |
+| ---------- | --------- | --------  |
+| Numérico   | int       | ❌       |
+| Numérico   | float     | ❌       |
+| Numérico   | complex   | ❌       |
+| Booleano   | bool      | ❌       |
+| Texto      | str       | ❌       |
+| Sequência  | list      | ✔        |
+| Sequência  | tuple     | ❌       |
+| Sequência  | range     | ❌       |
+| Conjunto   | set       | ✔        |
+| Conjunto   | frozenset | ❌       |
+| Mapeamento | dict      | ✔        |
+| Nulo       | NoneType  | ❌       |

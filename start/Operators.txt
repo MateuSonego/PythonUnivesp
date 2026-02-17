@@ -1,0 +1,14 @@
+Operadores de comparação:
+
+==  igual
+!=  diferente
+>   maior
+<   menor
+>=  maior ou igual
+<=  menor ou igual
+
+Operadores lógicos:
+
+and
+or
+not

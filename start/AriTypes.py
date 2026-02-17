@@ -1,4 +1,4 @@
-#Operadores em Python
+# Operadores aritméticos em Python
 
 #Soma 
 x = 3 + 3
@@ -26,7 +26,7 @@ print("Resultado da Divisão(Módulo): ", x)
 
 #Potenciação
 x = 9 ** 2
-print("Resultado da Potenciação: ", x) 
+print("Resultado da Potenciação: ", x)  
 
 
 
